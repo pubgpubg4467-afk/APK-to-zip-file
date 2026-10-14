@@ -1,0 +1,6 @@
+{
+  "name": "APK Zip Tool",
+  "description": "Convert APK to ZIP and ZIP to APK, inspect contents, DEX files and Manifest, sign APKs, and extract installed apps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

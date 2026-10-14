@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">APK Zip Tool</string>
+    <string name="tagline">APK se ZIP &amp; ZIP se APK Converter</string>
+    <string name="tab_convert">Convert</string>
+    <string name="tab_apps">Installed Apps</string>
+    <string name="tab_history">History</string>
+    <string name="tab_guide">Guide &amp; Tips</string>
+    <string name="apk_to_zip_title">APK to ZIP Converter</string>
+    <string name="zip_to_apk_title">ZIP to APK Converter</string>
+    <string name="select_apk">Select APK File</string>
+    <string name="select_zip">Select ZIP File</string>
+    <string name="select_from_installed">Pick Installed App</string>
+    <string name="start_conversion">Start Conversion</string>
+    <string name="converting">Converting…</string>
+    <string name="inspect_archive">Inspect Archive</string>
+    <string name="share_file">Share</string>
+    <string name="install_apk">Install APK</string>
+    <string name="save_to_downloads">Save to Storage</string>
+</resources>
